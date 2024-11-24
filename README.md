@@ -1,2 +1,5 @@
 # Blood-Timer
-Blood timer for hypixel skyblock dungeons
+A simple, but very accurate blood timer for Hypixel Skyblock Dungeons
+
+Standard Chattriggers module setup, just install the mod from https://www.chattriggers.com/
+Then, extract the zip into the chatriggers modules folder and enjoy!
